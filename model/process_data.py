@@ -29,7 +29,6 @@ import logging
 import json
 import cv2
 import datetime
-
 import shapely.wkt
 import shapely
 from shapely.geometry import Polygon
